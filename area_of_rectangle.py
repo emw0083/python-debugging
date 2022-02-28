@@ -2,8 +2,7 @@
 
 "A script for calculating the area of a rectangle."
 
-import sys
-
+import sysgid
 
 def area_of_rectangle(height, width = None):
     """
